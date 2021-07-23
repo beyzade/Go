@@ -2,5 +2,9 @@ package main
 
 func main() {
 	// sliceSample()
-	mapSample()
+	// mapSample()
+	// rangeSample()
+	// functionSample()
+	// closureSample()
+	pointerSample()
 }
