@@ -9,6 +9,12 @@ func main() {
 	// pointerSample()
 	// structSample()
 	// methodSample()
-	interfaceSample()
+	// interfaceSample()
 	// errorSample()
+	// goroutineSample()
+	// channelSample()
+	// channelBufferingSammple()
+	// channelSynchronizationSample()
+	// channelDirectionsSample()
+	selectSample()
 }
