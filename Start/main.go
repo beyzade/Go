@@ -6,5 +6,9 @@ func main() {
 	// rangeSample()
 	// functionSample()
 	// closureSample()
-	pointerSample()
+	// pointerSample()
+	// structSample()
+	// methodSample()
+	interfaceSample()
+	// errorSample()
 }
