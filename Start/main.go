@@ -16,5 +16,8 @@ func main() {
 	// channelBufferingSammple()
 	// channelSynchronizationSample()
 	// channelDirectionsSample()
-	selectSample()
+	// selectSample()
+	// timeoutSample()
+	// nonBlockingChannelOperations()
+	closingChannelSample()
 }
